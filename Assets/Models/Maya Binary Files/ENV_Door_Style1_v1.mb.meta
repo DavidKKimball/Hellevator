@@ -1,0 +1,403 @@
+fileFormatVersion: 2
+guid: 8ef197c71c62a6841a84ed11573a8344
+timeCreated: 1521604227
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Door_Style1
+    100002: Door_Style1_Frame
+    100004: Door_Style1_Panel
+    100006: //RootNode
+    100008: left
+    100010: nurbsCircle1
+    100012: ENV_Cave_Wall_v1:Back_Cave_Wall
+    100014: ENV_Cave_Wall_v1:Door_Foot_Bridge
+    100016: ENV_Cave_Wall_v1:Door_Group
+    100018: ENV_Cave_Wall_v1:Door_Hallways
+    100020: ENV_Cave_Wall_v1:Left_Cave_Wall
+    100022: ENV_Cave_Wall_v1:Left_Door
+    100024: ENV_Cave_Wall_v1:MasterDoorStyle
+    100026: ENV_Cave_Wall_v1:MasterDoorStyle10
+    100028: ENV_Cave_Wall_v1:MasterDoorStyle12
+    100030: ENV_Cave_Wall_v1:MasterDoorStyle13
+    100032: ENV_Cave_Wall_v1:MasterDoorStyle14
+    100034: ENV_Cave_Wall_v1:MasterDoorStyle3
+    100036: ENV_Cave_Wall_v1:MasterDoorStyle4
+    100038: ENV_Cave_Wall_v1:MasterDoorStyle5
+    100040: ENV_Cave_Wall_v1:MasterDoorStyle6
+    100042: ENV_Cave_Wall_v1:MasterDoorStyle7
+    100044: ENV_Cave_Wall_v1:MasterDoorStyle8
+    100046: ENV_Cave_Wall_v1:MasterDoorStyle9
+    100048: ENV_Cave_Wall_v1:Right_Cave_Wall
+    100050: ENV_Cave_Wall_v1:Right_Door
+    100052: ENV_Cave_Wall_v1:Step
+    100054: ENV_Cave_Wall_v1:Step1
+    100056: ENV_Cave_Wall_v1:Step2
+    100058: ENV_Cave_Wall_v1:Step3
+    400000: Door_Style1
+    400002: Door_Style1_Frame
+    400004: Door_Style1_Panel
+    400006: //RootNode
+    400008: left
+    400010: nurbsCircle1
+    400012: ENV_Cave_Wall_v1:Back_Cave_Wall
+    400014: ENV_Cave_Wall_v1:Door_Foot_Bridge
+    400016: ENV_Cave_Wall_v1:Door_Group
+    400018: ENV_Cave_Wall_v1:Door_Hallways
+    400020: ENV_Cave_Wall_v1:Left_Cave_Wall
+    400022: ENV_Cave_Wall_v1:Left_Door
+    400024: ENV_Cave_Wall_v1:MasterDoorStyle
+    400026: ENV_Cave_Wall_v1:MasterDoorStyle10
+    400028: ENV_Cave_Wall_v1:MasterDoorStyle12
+    400030: ENV_Cave_Wall_v1:MasterDoorStyle13
+    400032: ENV_Cave_Wall_v1:MasterDoorStyle14
+    400034: ENV_Cave_Wall_v1:MasterDoorStyle3
+    400036: ENV_Cave_Wall_v1:MasterDoorStyle4
+    400038: ENV_Cave_Wall_v1:MasterDoorStyle5
+    400040: ENV_Cave_Wall_v1:MasterDoorStyle6
+    400042: ENV_Cave_Wall_v1:MasterDoorStyle7
+    400044: ENV_Cave_Wall_v1:MasterDoorStyle8
+    400046: ENV_Cave_Wall_v1:MasterDoorStyle9
+    400048: ENV_Cave_Wall_v1:Right_Cave_Wall
+    400050: ENV_Cave_Wall_v1:Right_Door
+    400052: ENV_Cave_Wall_v1:Step
+    400054: ENV_Cave_Wall_v1:Step1
+    400056: ENV_Cave_Wall_v1:Step2
+    400058: ENV_Cave_Wall_v1:Step3
+    2300000: Door_Style1_Frame
+    2300002: Door_Style1_Panel
+    2300004: ENV_Cave_Wall_v1:Back_Cave_Wall
+    2300006: ENV_Cave_Wall_v1:Left_Cave_Wall
+    2300008: ENV_Cave_Wall_v1:Left_Door
+    2300010: ENV_Cave_Wall_v1:MasterDoorStyle
+    2300012: ENV_Cave_Wall_v1:MasterDoorStyle10
+    2300014: ENV_Cave_Wall_v1:MasterDoorStyle12
+    2300016: ENV_Cave_Wall_v1:MasterDoorStyle13
+    2300018: ENV_Cave_Wall_v1:MasterDoorStyle14
+    2300020: ENV_Cave_Wall_v1:MasterDoorStyle3
+    2300022: ENV_Cave_Wall_v1:MasterDoorStyle4
+    2300024: ENV_Cave_Wall_v1:MasterDoorStyle5
+    2300026: ENV_Cave_Wall_v1:MasterDoorStyle6
+    2300028: ENV_Cave_Wall_v1:MasterDoorStyle7
+    2300030: ENV_Cave_Wall_v1:MasterDoorStyle8
+    2300032: ENV_Cave_Wall_v1:MasterDoorStyle9
+    2300034: ENV_Cave_Wall_v1:Right_Cave_Wall
+    2300036: ENV_Cave_Wall_v1:Right_Door
+    2300038: ENV_Cave_Wall_v1:Step
+    2300040: ENV_Cave_Wall_v1:Step1
+    2300042: ENV_Cave_Wall_v1:Step2
+    2300044: ENV_Cave_Wall_v1:Step3
+    3300000: Door_Style1_Frame
+    3300002: Door_Style1_Panel
+    3300004: ENV_Cave_Wall_v1:Back_Cave_Wall
+    3300006: ENV_Cave_Wall_v1:Left_Cave_Wall
+    3300008: ENV_Cave_Wall_v1:Left_Door
+    3300010: ENV_Cave_Wall_v1:MasterDoorStyle
+    3300012: ENV_Cave_Wall_v1:MasterDoorStyle10
+    3300014: ENV_Cave_Wall_v1:MasterDoorStyle12
+    3300016: ENV_Cave_Wall_v1:MasterDoorStyle13
+    3300018: ENV_Cave_Wall_v1:MasterDoorStyle14
+    3300020: ENV_Cave_Wall_v1:MasterDoorStyle3
+    3300022: ENV_Cave_Wall_v1:MasterDoorStyle4
+    3300024: ENV_Cave_Wall_v1:MasterDoorStyle5
+    3300026: ENV_Cave_Wall_v1:MasterDoorStyle6
+    3300028: ENV_Cave_Wall_v1:MasterDoorStyle7
+    3300030: ENV_Cave_Wall_v1:MasterDoorStyle8
+    3300032: ENV_Cave_Wall_v1:MasterDoorStyle9
+    3300034: ENV_Cave_Wall_v1:Right_Cave_Wall
+    3300036: ENV_Cave_Wall_v1:Right_Door
+    3300038: ENV_Cave_Wall_v1:Step
+    3300040: ENV_Cave_Wall_v1:Step1
+    3300042: ENV_Cave_Wall_v1:Step2
+    3300044: ENV_Cave_Wall_v1:Step3
+    4300000: Door_Style1_Frame
+    4300002: Door_Style1_Panel
+    4300004: ENV_Cave_Wall_v1:Right_Cave_Wall
+    4300006: ENV_Cave_Wall_v1:Back_Cave_Wall
+    4300008: ENV_Cave_Wall_v1:Left_Cave_Wall
+    4300010: ENV_Cave_Wall_v1:MasterDoorStyle
+    4300012: ENV_Cave_Wall_v1:MasterDoorStyle3
+    4300014: ENV_Cave_Wall_v1:MasterDoorStyle4
+    4300016: ENV_Cave_Wall_v1:MasterDoorStyle7
+    4300018: ENV_Cave_Wall_v1:MasterDoorStyle6
+    4300020: ENV_Cave_Wall_v1:MasterDoorStyle5
+    4300022: ENV_Cave_Wall_v1:MasterDoorStyle8
+    4300024: ENV_Cave_Wall_v1:MasterDoorStyle9
+    4300026: ENV_Cave_Wall_v1:MasterDoorStyle10
+    4300028: ENV_Cave_Wall_v1:MasterDoorStyle12
+    4300030: ENV_Cave_Wall_v1:MasterDoorStyle13
+    4300032: ENV_Cave_Wall_v1:MasterDoorStyle14
+    4300034: ENV_Cave_Wall_v1:Left_Door
+    4300036: ENV_Cave_Wall_v1:Right_Door
+    4300038: ENV_Cave_Wall_v1:Step
+    4300040: ENV_Cave_Wall_v1:Step1
+    4300042: ENV_Cave_Wall_v1:Step2
+    4300044: ENV_Cave_Wall_v1:Step3
+    7400000: Door Idle Closed
+    7400002: Door Open
+    7400004: Door Close
+    7400006: Door Open Vertically
+    7400008: Door Close Vertically
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Door Idle Closed
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: ENV_Cave_Wall_v1:Door_Group
+        weight: 1
+      - path: ENV_Cave_Wall_v1:Door_Group/ENV_Cave_Wall_v1:Left_Door
+        weight: 1
+      - path: ENV_Cave_Wall_v1:Door_Group/ENV_Cave_Wall_v1:Right_Door
+        weight: 1
+      - path: left
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Door Open
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 18
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: ENV_Cave_Wall_v1:Door_Group
+        weight: 1
+      - path: ENV_Cave_Wall_v1:Door_Group/ENV_Cave_Wall_v1:Left_Door
+        weight: 1
+      - path: ENV_Cave_Wall_v1:Door_Group/ENV_Cave_Wall_v1:Right_Door
+        weight: 1
+      - path: left
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Door Close
+      takeName: Take 001
+      firstFrame: 18
+      lastFrame: 37
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: ENV_Cave_Wall_v1:Door_Group
+        weight: 1
+      - path: ENV_Cave_Wall_v1:Door_Group/ENV_Cave_Wall_v1:Left_Door
+        weight: 1
+      - path: ENV_Cave_Wall_v1:Door_Group/ENV_Cave_Wall_v1:Right_Door
+        weight: 1
+      - path: left
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Door Open Vertically
+      takeName: Take 001
+      firstFrame: 38
+      lastFrame: 55
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: ENV_Cave_Wall_v1:Door_Group
+        weight: 1
+      - path: ENV_Cave_Wall_v1:Door_Group/ENV_Cave_Wall_v1:Left_Door
+        weight: 1
+      - path: ENV_Cave_Wall_v1:Door_Group/ENV_Cave_Wall_v1:Right_Door
+        weight: 1
+      - path: left
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Door Close Vertically
+      takeName: Take 001
+      firstFrame: 55
+      lastFrame: 72
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: ENV_Cave_Wall_v1:Door_Group
+        weight: 1
+      - path: ENV_Cave_Wall_v1:Door_Group/ENV_Cave_Wall_v1:Left_Door
+        weight: 1
+      - path: ENV_Cave_Wall_v1:Door_Group/ENV_Cave_Wall_v1:Right_Door
+        weight: 1
+      - path: left
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

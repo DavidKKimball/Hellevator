@@ -1,0 +1,523 @@
+fileFormatVersion: 2
+guid: 70dd5b936caa0b843a57419a6844f1ea
+timeCreated: 1522532327
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Cave_Wall_Left
+    100002: Cave_Wall_Right
+    100004: Door_Style1_Frame
+    100006: Door_Style1_Frame 1
+    100008: Door_Style1_Frame1
+    100010: Door_Style1_Frame2
+    100012: Door_Style1_Frame2 1
+    100014: Door_Style1_Frame3
+    100016: Door_Style1_Panel
+    100018: Door_Style1_Panel1
+    100020: Door_Style1_Panel2
+    100022: Door_Style1_Panel3
+    100024: Door_Style1_Panel4
+    100026: Door_Style1_Panel4 1
+    100028: Door_Style1_Panel5
+    100030: Door_Style1_Panel5 1
+    100032: ENV_Cave_Wall_v1:Door_Style1_Frame
+    100034: ENV_Cave_Wall_v1:Door_Style1_Frame 1
+    100036: ENV_Cave_Wall_v1:Door_Style1_Frame1
+    100038: ENV_Cave_Wall_v1:Door_Style1_Frame2
+    100040: ENV_Cave_Wall_v1:Door_Style1_Frame2 1
+    100042: ENV_Cave_Wall_v1:Door_Style1_Frame3
+    100044: ENV_Cave_Wall_v1:Door_Style1_Panel
+    100046: ENV_Cave_Wall_v1:Door_Style1_Panel1
+    100048: ENV_Cave_Wall_v1:Door_Style1_Panel2
+    100050: ENV_Cave_Wall_v1:Door_Style1_Panel3
+    100052: ENV_Cave_Wall_v1:Door_Style1_Panel4
+    100054: ENV_Cave_Wall_v1:Door_Style1_Panel4 1
+    100056: ENV_Cave_Wall_v1:Door_Style1_Panel5
+    100058: ENV_Cave_Wall_v1:Door_Style1_Panel5 1
+    100060: ENV_Cave_Wall_v1:Floor_Left
+    100062: ENV_Cave_Wall_v1:Floor_Right
+    100064: ENV_Cave_Wall_v1:Gear
+    100066: ENV_Cave_Wall_v1:Gear2
+    100068: ENV_Cave_Wall_v1:Left_Doors
+    100070: ENV_Cave_Wall_v1:Platform
+    100072: ENV_Cave_Wall_v1:polySurface39
+    100074: ENV_Cave_Wall_v1:polySurface40
+    100076: ENV_Cave_Wall_v1:Right_Doors
+    100078: ENV_Cave_Wall_v1:Trap_Door_East1
+    100080: ENV_Cave_Wall_v1:Trap_Door_North
+    100082: ENV_Cave_Wall_v1:Trap_Door_South
+    100084: ENV_Cave_Wall_v1:Trap_Door_West
+    100086: Gears
+    100088: group
+    100090: group1
+    100092: group10
+    100094: group2
+    100096: group2_polySurface5
+    100098: group2_polySurface8
+    100100: group3
+    100102: group4
+    100104: group5
+    100106: group6
+    100108: group6 1
+    100110: group7
+    100112: group8
+    100114: group9
+    100116: left
+    100118: pasted__Cave_Wall_Left
+    100120: pasted__Cave_Wall_Left 1
+    100122: pasted__Cave_Wall_Left 2
+    100124: pasted__Cave_Wall_Right
+    100126: pasted__group1
+    100128: pasted__group2
+    100130: pasted__group2 1
+    100132: pasted__group2_polySurface5
+    100134: pasted__group2_polySurface5 1
+    100136: pasted__group2_polySurface8
+    100138: pasted__group2_polySurface8 1
+    100140: pasted__group7
+    100142: pasted__pasted__polySurface41
+    100144: pasted__pasted__polySurface41 1
+    100146: pasted__pCylinder1
+    100148: pasted__polySurface10
+    100150: pasted__polySurface11
+    100152: pasted__polySurface11 1
+    100154: pasted__polySurface11 2
+    100156: pasted__polySurface2
+    100158: pasted__polySurface2 1
+    100160: pasted__polySurface2 2
+    100162: pasted__polySurface2 3
+    100164: pasted__polySurface3
+    100166: pasted__polySurface3 1
+    100168: pasted__polySurface4
+    100170: pasted__polySurface4 1
+    100172: pasted__polySurface5
+    100174: pasted__polySurface5 1
+    100176: pasted__polySurface5 2
+    100178: pasted__polySurface6
+    100180: pasted__polySurface8
+    100182: pasted__polySurface8 1
+    100184: pasted__polySurface8 2
+    100186: pasted__polySurface9
+    100188: pasted__transform1
+    100190: pasted__transform1 1
+    100192: pasted__transform10
+    100194: pasted__transform11
+    100196: pasted__transform12
+    100198: pasted__transform13
+    100200: pasted__transform14
+    100202: pasted__transform15
+    100204: pasted__transform17
+    100206: pasted__transform17 1
+    100208: pasted__transform2
+    100210: pasted__transform3
+    100212: pasted__transform3 1
+    100214: pasted__transform4
+    100216: pasted__transform4 1
+    100218: pasted__transform5
+    100220: pasted__transform5 1
+    100222: pasted__transform6
+    100224: pasted__transform6 1
+    100226: pasted__transform7
+    100228: pasted__transform7 1
+    100230: pasted__transform8
+    100232: pasted__transform8 1
+    100234: pasted__transform9
+    100236: polySurface10
+    100238: polySurface2
+    100240: polySurface2 1
+    100242: polySurface3
+    100244: polySurface39
+    100246: polySurface4
+    100248: polySurface4 1
+    100250: polySurface40
+    100252: polySurface5
+    100254: polySurface5 1
+    100256: polySurface6
+    100258: polySurface8
+    100260: polySurface8 1
+    100262: polySurface9
+    100264: pPlane1
+    100266: pPlane2
+    100268: Right_Doors
+    100270: transform1
+    100272: transform10
+    100274: transform11
+    100276: transform12
+    100278: transform13
+    100280: transform14
+    100282: transform15
+    100284: transform16
+    100286: transform16 1
+    100288: transform17
+    100290: transform18
+    100292: transform2
+    100294: transform3
+    100296: transform4
+    100298: transform5
+    100300: transform6
+    100302: transform7
+    100304: transform8
+    100306: transform9
+    100308: //RootNode
+    400000: Cave_Wall_Left
+    400002: Cave_Wall_Right
+    400004: Door_Style1_Frame
+    400006: Door_Style1_Frame 1
+    400008: Door_Style1_Frame1
+    400010: Door_Style1_Frame2
+    400012: Door_Style1_Frame2 1
+    400014: Door_Style1_Frame3
+    400016: Door_Style1_Panel
+    400018: Door_Style1_Panel1
+    400020: Door_Style1_Panel2
+    400022: Door_Style1_Panel3
+    400024: Door_Style1_Panel4
+    400026: Door_Style1_Panel4 1
+    400028: Door_Style1_Panel5
+    400030: Door_Style1_Panel5 1
+    400032: ENV_Cave_Wall_v1:Door_Style1_Frame
+    400034: ENV_Cave_Wall_v1:Door_Style1_Frame 1
+    400036: ENV_Cave_Wall_v1:Door_Style1_Frame1
+    400038: ENV_Cave_Wall_v1:Door_Style1_Frame2
+    400040: ENV_Cave_Wall_v1:Door_Style1_Frame2 1
+    400042: ENV_Cave_Wall_v1:Door_Style1_Frame3
+    400044: ENV_Cave_Wall_v1:Door_Style1_Panel
+    400046: ENV_Cave_Wall_v1:Door_Style1_Panel1
+    400048: ENV_Cave_Wall_v1:Door_Style1_Panel2
+    400050: ENV_Cave_Wall_v1:Door_Style1_Panel3
+    400052: ENV_Cave_Wall_v1:Door_Style1_Panel4
+    400054: ENV_Cave_Wall_v1:Door_Style1_Panel4 1
+    400056: ENV_Cave_Wall_v1:Door_Style1_Panel5
+    400058: ENV_Cave_Wall_v1:Door_Style1_Panel5 1
+    400060: ENV_Cave_Wall_v1:Floor_Left
+    400062: ENV_Cave_Wall_v1:Floor_Right
+    400064: ENV_Cave_Wall_v1:Gear
+    400066: ENV_Cave_Wall_v1:Gear2
+    400068: ENV_Cave_Wall_v1:Left_Doors
+    400070: ENV_Cave_Wall_v1:Platform
+    400072: ENV_Cave_Wall_v1:polySurface39
+    400074: ENV_Cave_Wall_v1:polySurface40
+    400076: ENV_Cave_Wall_v1:Right_Doors
+    400078: ENV_Cave_Wall_v1:Trap_Door_East1
+    400080: ENV_Cave_Wall_v1:Trap_Door_North
+    400082: ENV_Cave_Wall_v1:Trap_Door_South
+    400084: ENV_Cave_Wall_v1:Trap_Door_West
+    400086: Gears
+    400088: group
+    400090: group1
+    400092: group10
+    400094: group2
+    400096: group2_polySurface5
+    400098: group2_polySurface8
+    400100: group3
+    400102: group4
+    400104: group5
+    400106: group6
+    400108: group6 1
+    400110: group7
+    400112: group8
+    400114: group9
+    400116: left
+    400118: pasted__Cave_Wall_Left
+    400120: pasted__Cave_Wall_Left 1
+    400122: pasted__Cave_Wall_Left 2
+    400124: pasted__Cave_Wall_Right
+    400126: pasted__group1
+    400128: pasted__group2
+    400130: pasted__group2 1
+    400132: pasted__group2_polySurface5
+    400134: pasted__group2_polySurface5 1
+    400136: pasted__group2_polySurface8
+    400138: pasted__group2_polySurface8 1
+    400140: pasted__group7
+    400142: pasted__pasted__polySurface41
+    400144: pasted__pasted__polySurface41 1
+    400146: pasted__pCylinder1
+    400148: pasted__polySurface10
+    400150: pasted__polySurface11
+    400152: pasted__polySurface11 1
+    400154: pasted__polySurface11 2
+    400156: pasted__polySurface2
+    400158: pasted__polySurface2 1
+    400160: pasted__polySurface2 2
+    400162: pasted__polySurface2 3
+    400164: pasted__polySurface3
+    400166: pasted__polySurface3 1
+    400168: pasted__polySurface4
+    400170: pasted__polySurface4 1
+    400172: pasted__polySurface5
+    400174: pasted__polySurface5 1
+    400176: pasted__polySurface5 2
+    400178: pasted__polySurface6
+    400180: pasted__polySurface8
+    400182: pasted__polySurface8 1
+    400184: pasted__polySurface8 2
+    400186: pasted__polySurface9
+    400188: pasted__transform1
+    400190: pasted__transform1 1
+    400192: pasted__transform10
+    400194: pasted__transform11
+    400196: pasted__transform12
+    400198: pasted__transform13
+    400200: pasted__transform14
+    400202: pasted__transform15
+    400204: pasted__transform17
+    400206: pasted__transform17 1
+    400208: pasted__transform2
+    400210: pasted__transform3
+    400212: pasted__transform3 1
+    400214: pasted__transform4
+    400216: pasted__transform4 1
+    400218: pasted__transform5
+    400220: pasted__transform5 1
+    400222: pasted__transform6
+    400224: pasted__transform6 1
+    400226: pasted__transform7
+    400228: pasted__transform7 1
+    400230: pasted__transform8
+    400232: pasted__transform8 1
+    400234: pasted__transform9
+    400236: polySurface10
+    400238: polySurface2
+    400240: polySurface2 1
+    400242: polySurface3
+    400244: polySurface39
+    400246: polySurface4
+    400248: polySurface4 1
+    400250: polySurface40
+    400252: polySurface5
+    400254: polySurface5 1
+    400256: polySurface6
+    400258: polySurface8
+    400260: polySurface8 1
+    400262: polySurface9
+    400264: pPlane1
+    400266: pPlane2
+    400268: Right_Doors
+    400270: transform1
+    400272: transform10
+    400274: transform11
+    400276: transform12
+    400278: transform13
+    400280: transform14
+    400282: transform15
+    400284: transform16
+    400286: transform16 1
+    400288: transform17
+    400290: transform18
+    400292: transform2
+    400294: transform3
+    400296: transform4
+    400298: transform5
+    400300: transform6
+    400302: transform7
+    400304: transform8
+    400306: transform9
+    400308: //RootNode
+    2300000: Door_Style1_Frame
+    2300002: Door_Style1_Frame 1
+    2300004: Door_Style1_Frame1
+    2300006: Door_Style1_Frame2
+    2300008: Door_Style1_Frame2 1
+    2300010: Door_Style1_Frame3
+    2300012: Door_Style1_Panel
+    2300014: Door_Style1_Panel1
+    2300016: Door_Style1_Panel2
+    2300018: Door_Style1_Panel3
+    2300020: Door_Style1_Panel4
+    2300022: Door_Style1_Panel4 1
+    2300024: Door_Style1_Panel5
+    2300026: Door_Style1_Panel5 1
+    2300028: ENV_Cave_Wall_v1:Door_Style1_Frame
+    2300030: ENV_Cave_Wall_v1:Door_Style1_Frame 1
+    2300032: ENV_Cave_Wall_v1:Door_Style1_Frame1
+    2300034: ENV_Cave_Wall_v1:Door_Style1_Frame2
+    2300036: ENV_Cave_Wall_v1:Door_Style1_Frame2 1
+    2300038: ENV_Cave_Wall_v1:Door_Style1_Frame3
+    2300040: ENV_Cave_Wall_v1:Door_Style1_Panel
+    2300042: ENV_Cave_Wall_v1:Door_Style1_Panel1
+    2300044: ENV_Cave_Wall_v1:Door_Style1_Panel2
+    2300046: ENV_Cave_Wall_v1:Door_Style1_Panel3
+    2300048: ENV_Cave_Wall_v1:Door_Style1_Panel4
+    2300050: ENV_Cave_Wall_v1:Door_Style1_Panel4 1
+    2300052: ENV_Cave_Wall_v1:Door_Style1_Panel5
+    2300054: ENV_Cave_Wall_v1:Door_Style1_Panel5 1
+    2300056: ENV_Cave_Wall_v1:Floor_Left
+    2300058: ENV_Cave_Wall_v1:Floor_Right
+    2300060: ENV_Cave_Wall_v1:Gear
+    2300062: ENV_Cave_Wall_v1:Gear2
+    2300064: ENV_Cave_Wall_v1:polySurface39
+    2300066: ENV_Cave_Wall_v1:polySurface40
+    2300068: ENV_Cave_Wall_v1:Trap_Door_East1
+    2300070: ENV_Cave_Wall_v1:Trap_Door_North
+    2300072: ENV_Cave_Wall_v1:Trap_Door_South
+    2300074: ENV_Cave_Wall_v1:Trap_Door_West
+    2300076: pasted__pasted__polySurface41
+    2300078: pasted__pCylinder1
+    2300080: pasted__polySurface11
+    2300082: polySurface39
+    2300084: polySurface40
+    2300086: pPlane1
+    2300088: pPlane2
+    3300000: Door_Style1_Frame
+    3300002: Door_Style1_Frame 1
+    3300004: Door_Style1_Frame1
+    3300006: Door_Style1_Frame2
+    3300008: Door_Style1_Frame2 1
+    3300010: Door_Style1_Frame3
+    3300012: Door_Style1_Panel
+    3300014: Door_Style1_Panel1
+    3300016: Door_Style1_Panel2
+    3300018: Door_Style1_Panel3
+    3300020: Door_Style1_Panel4
+    3300022: Door_Style1_Panel4 1
+    3300024: Door_Style1_Panel5
+    3300026: Door_Style1_Panel5 1
+    3300028: ENV_Cave_Wall_v1:Door_Style1_Frame
+    3300030: ENV_Cave_Wall_v1:Door_Style1_Frame 1
+    3300032: ENV_Cave_Wall_v1:Door_Style1_Frame1
+    3300034: ENV_Cave_Wall_v1:Door_Style1_Frame2
+    3300036: ENV_Cave_Wall_v1:Door_Style1_Frame2 1
+    3300038: ENV_Cave_Wall_v1:Door_Style1_Frame3
+    3300040: ENV_Cave_Wall_v1:Door_Style1_Panel
+    3300042: ENV_Cave_Wall_v1:Door_Style1_Panel1
+    3300044: ENV_Cave_Wall_v1:Door_Style1_Panel2
+    3300046: ENV_Cave_Wall_v1:Door_Style1_Panel3
+    3300048: ENV_Cave_Wall_v1:Door_Style1_Panel4
+    3300050: ENV_Cave_Wall_v1:Door_Style1_Panel4 1
+    3300052: ENV_Cave_Wall_v1:Door_Style1_Panel5
+    3300054: ENV_Cave_Wall_v1:Door_Style1_Panel5 1
+    3300056: ENV_Cave_Wall_v1:Floor_Left
+    3300058: ENV_Cave_Wall_v1:Floor_Right
+    3300060: ENV_Cave_Wall_v1:Gear
+    3300062: ENV_Cave_Wall_v1:Gear2
+    3300064: ENV_Cave_Wall_v1:polySurface39
+    3300066: ENV_Cave_Wall_v1:polySurface40
+    3300068: ENV_Cave_Wall_v1:Trap_Door_East1
+    3300070: ENV_Cave_Wall_v1:Trap_Door_North
+    3300072: ENV_Cave_Wall_v1:Trap_Door_South
+    3300074: ENV_Cave_Wall_v1:Trap_Door_West
+    3300076: pasted__pasted__polySurface41
+    3300078: pasted__pCylinder1
+    3300080: pasted__polySurface11
+    3300082: polySurface39
+    3300084: polySurface40
+    3300086: pPlane1
+    3300088: pPlane2
+    4300000: ENV_Cave_Wall_v1:polySurface39
+    4300002: ENV_Cave_Wall_v1:polySurface40
+    4300004: polySurface40
+    4300006: polySurface39
+    4300008: ENV_Cave_Wall_v1:Floor_Left
+    4300010: ENV_Cave_Wall_v1:Floor_Right
+    4300012: ENV_Cave_Wall_v1:Trap_Door_West
+    4300014: ENV_Cave_Wall_v1:Trap_Door_East1
+    4300016: ENV_Cave_Wall_v1:Gear
+    4300018: ENV_Cave_Wall_v1:Gear2
+    4300020: ENV_Cave_Wall_v1:Trap_Door_South
+    4300022: ENV_Cave_Wall_v1:Trap_Door_North
+    4300024: ENV_Cave_Wall_v1:Door_Style1_Panel2
+    4300026: ENV_Cave_Wall_v1:Door_Style1_Panel
+    4300028: ENV_Cave_Wall_v1:Door_Style1_Panel1
+    4300030: ENV_Cave_Wall_v1:Door_Style1_Frame
+    4300032: ENV_Cave_Wall_v1:Door_Style1_Frame1
+    4300034: ENV_Cave_Wall_v1:Door_Style1_Panel3
+    4300036: ENV_Cave_Wall_v1:Door_Style1_Panel4
+    4300038: ENV_Cave_Wall_v1:Door_Style1_Panel5
+    4300040: ENV_Cave_Wall_v1:Door_Style1_Frame2
+    4300042: Door_Style1_Panel2
+    4300044: Door_Style1_Panel
+    4300046: Door_Style1_Panel1
+    4300048: Door_Style1_Frame
+    4300050: Door_Style1_Frame1
+    4300052: Door_Style1_Panel3
+    4300054: Door_Style1_Panel4
+    4300056: Door_Style1_Panel5
+    4300058: Door_Style1_Frame2
+    4300060: pasted__polySurface11
+    4300062: pPlane1
+    4300064: ENV_Cave_Wall_v1:Door_Style1_Frame2
+    4300066: ENV_Cave_Wall_v1:Door_Style1_Panel5
+    4300068: ENV_Cave_Wall_v1:Door_Style1_Panel4
+    4300070: ENV_Cave_Wall_v1:Door_Style1_Frame
+    4300072: ENV_Cave_Wall_v1:Door_Style1_Frame3
+    4300074: pasted__pasted__polySurface41
+    4300076: Door_Style1_Frame2
+    4300078: Door_Style1_Panel5
+    4300080: Door_Style1_Panel4
+    4300082: Door_Style1_Frame
+    4300084: Door_Style1_Frame3
+    4300086: pPlane2
+    4300088: pasted__pCylinder1
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,267 @@
+fileFormatVersion: 2
+guid: b931d19d1a6338349b68863ffdaf6523
+timeCreated: 1522351456
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: NME_Eyeball_Group_v1:Choas_Eye
+    100004: NME_Eyeball_Group_v1:Green_Eye
+    100006: NME_Eyeball_Group_v1:No_Eye
+    100008: NME_Eyeball_Group_v1:Orbiters
+    100010: NME_Eyeball_Group_v1:Yellow_Eye
+    400000: //RootNode
+    400002: NME_Eyeball_Group_v1:Choas_Eye
+    400004: NME_Eyeball_Group_v1:Green_Eye
+    400006: NME_Eyeball_Group_v1:No_Eye
+    400008: NME_Eyeball_Group_v1:Orbiters
+    400010: NME_Eyeball_Group_v1:Yellow_Eye
+    2300000: NME_Eyeball_Group_v1:Choas_Eye
+    2300002: NME_Eyeball_Group_v1:Green_Eye
+    2300004: NME_Eyeball_Group_v1:No_Eye
+    2300006: NME_Eyeball_Group_v1:Yellow_Eye
+    3300000: NME_Eyeball_Group_v1:Choas_Eye
+    3300002: NME_Eyeball_Group_v1:Green_Eye
+    3300004: NME_Eyeball_Group_v1:No_Eye
+    3300006: NME_Eyeball_Group_v1:Yellow_Eye
+    4300000: NME_Eyeball_Group_v1:Green_Eye
+    4300002: NME_Eyeball_Group_v1:No_Eye
+    4300004: NME_Eyeball_Group_v1:Yellow_Eye
+    4300006: NME_Eyeball_Group_v1:Choas_Eye
+    7400000: Eyeball Group Death
+    7400002: Eyeball Group Float Idle
+    7400004: Eyeball Group Idle
+    7400006: Eyeball Group Death Improved
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 1
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Eyeball Group Death
+      takeName: Take 001
+      firstFrame: 70
+      lastFrame: 84
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: NME_Eyeball_Group_v1:Orbiters
+        weight: 1
+      - path: NME_Eyeball_Group_v1:Orbiters/NME_Eyeball_Group_v1:Choas_Eye
+        weight: 1
+      - path: NME_Eyeball_Group_v1:Orbiters/NME_Eyeball_Group_v1:Green_Eye
+        weight: 1
+      - path: NME_Eyeball_Group_v1:Orbiters/NME_Eyeball_Group_v1:No_Eye
+        weight: 1
+      - path: NME_Eyeball_Group_v1:Orbiters/NME_Eyeball_Group_v1:Yellow_Eye
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Eyeball Group Float Idle
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 70
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: NME_Eyeball_Group_v1:Orbiters
+        weight: 1
+      - path: NME_Eyeball_Group_v1:Orbiters/NME_Eyeball_Group_v1:Choas_Eye
+        weight: 1
+      - path: NME_Eyeball_Group_v1:Orbiters/NME_Eyeball_Group_v1:Green_Eye
+        weight: 1
+      - path: NME_Eyeball_Group_v1:Orbiters/NME_Eyeball_Group_v1:No_Eye
+        weight: 1
+      - path: NME_Eyeball_Group_v1:Orbiters/NME_Eyeball_Group_v1:Yellow_Eye
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Eyeball Group Idle
+      takeName: Take 001
+      firstFrame: 88
+      lastFrame: 198.19202
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: NME_Eyeball_Group_v1:Orbiters
+        weight: 1
+      - path: NME_Eyeball_Group_v1:Orbiters/NME_Eyeball_Group_v1:Choas_Eye
+        weight: 1
+      - path: NME_Eyeball_Group_v1:Orbiters/NME_Eyeball_Group_v1:Green_Eye
+        weight: 1
+      - path: NME_Eyeball_Group_v1:Orbiters/NME_Eyeball_Group_v1:No_Eye
+        weight: 1
+      - path: NME_Eyeball_Group_v1:Orbiters/NME_Eyeball_Group_v1:Yellow_Eye
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Eyeball Group Death Improved
+      takeName: Take 001
+      firstFrame: 201
+      lastFrame: 230
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: NME_Eyeball_Group_v1:Orbiters
+        weight: 1
+      - path: NME_Eyeball_Group_v1:Orbiters/NME_Eyeball_Group_v1:Choas_Eye
+        weight: 1
+      - path: NME_Eyeball_Group_v1:Orbiters/NME_Eyeball_Group_v1:Green_Eye
+        weight: 1
+      - path: NME_Eyeball_Group_v1:Orbiters/NME_Eyeball_Group_v1:No_Eye
+        weight: 1
+      - path: NME_Eyeball_Group_v1:Orbiters/NME_Eyeball_Group_v1:Yellow_Eye
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

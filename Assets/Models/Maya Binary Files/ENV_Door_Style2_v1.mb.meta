@@ -1,0 +1,153 @@
+fileFormatVersion: 2
+guid: 45a27d82a37f55540a6e14e404f83ed9
+timeCreated: 1523539139
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Bar
+    100002: Bar 1
+    100004: Bar 2
+    100006: Bar 3
+    100008: Cross_Bar
+    100010: Cross_Bar1
+    100012: Cross_Bar2
+    100014: Cross_Bar3
+    100016: Door_Spear
+    100018: Door_Spear1
+    100020: Door_Spear2
+    100022: Door_Spear3
+    100024: //RootNode
+    100026: Iron_Door
+    100028: left
+    100030: Tip
+    100032: Tip 1
+    100034: Tip 2
+    100036: Tip 3
+    400000: Bar
+    400002: Bar 1
+    400004: Bar 2
+    400006: Bar 3
+    400008: Cross_Bar
+    400010: Cross_Bar1
+    400012: Cross_Bar2
+    400014: Cross_Bar3
+    400016: Door_Spear
+    400018: Door_Spear1
+    400020: Door_Spear2
+    400022: Door_Spear3
+    400024: //RootNode
+    400026: Iron_Door
+    400028: left
+    400030: Tip
+    400032: Tip 1
+    400034: Tip 2
+    400036: Tip 3
+    2300000: Bar
+    2300002: Bar 1
+    2300004: Bar 2
+    2300006: Bar 3
+    2300008: Cross_Bar
+    2300010: Cross_Bar1
+    2300012: Cross_Bar2
+    2300014: Cross_Bar3
+    2300016: Tip
+    2300018: Tip 1
+    2300020: Tip 2
+    2300022: Tip 3
+    3300000: Bar
+    3300002: Bar 1
+    3300004: Bar 2
+    3300006: Bar 3
+    3300008: Cross_Bar
+    3300010: Cross_Bar1
+    3300012: Cross_Bar2
+    3300014: Cross_Bar3
+    3300016: Tip
+    3300018: Tip 1
+    3300020: Tip 2
+    3300022: Tip 3
+    4300000: Tip
+    4300002: Bar
+    4300004: Tip
+    4300006: Bar
+    4300008: Tip
+    4300010: Bar
+    4300012: Tip
+    4300014: Bar
+    4300016: Cross_Bar3
+    4300018: Cross_Bar2
+    4300020: Cross_Bar1
+    4300022: Cross_Bar
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

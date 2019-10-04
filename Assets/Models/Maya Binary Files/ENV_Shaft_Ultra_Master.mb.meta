@@ -1,0 +1,214 @@
+fileFormatVersion: 2
+guid: 003991eb17a3d434c8497313640ee9f0
+timeCreated: 1523539138
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Back_Cave_Wall
+    100002: Blob
+    100004: Blob_Anchor
+    100006: Door_Foot_Bridge
+    100008: Door_Group
+    100010: Door_Hallways
+    100012: ENV_Cave_Wall_v1:Left_Door
+    100014: ENV_Cave_Wall_v1:MasterDoorStyle
+    100016: ENV_Cave_Wall_v1:MasterDoorStyle12
+    100018: ENV_Cave_Wall_v1:MasterDoorStyle13
+    100020: ENV_Cave_Wall_v1:MasterDoorStyle14
+    100022: ENV_Cave_Wall_v1:MasterDoorStyle3
+    100024: ENV_Cave_Wall_v1:MasterDoorStyle4
+    100026: ENV_Cave_Wall_v1:MasterDoorStyle5
+    100028: ENV_Cave_Wall_v1:MasterDoorStyle6
+    100030: ENV_Cave_Wall_v1:MasterDoorStyle7
+    100032: ENV_Cave_Wall_v1:MasterDoorStyle8
+    100034: ENV_Cave_Wall_v1:MasterDoorStyle9
+    100036: ENV_Cave_Wall_v1:Right_Door
+    100038: ENV_Cave_Wall_v1:Step
+    100040: ENV_Cave_Wall_v1:Step1
+    100042: ENV_Cave_Wall_v1:Step2
+    100044: ENV_Cave_Wall_v1:Step3
+    100046: //RootNode
+    100048: left
+    100050: Left_Cave_Wall
+    100052: Right_Cave_Wall
+    100054: Left_Lower_Cave_Wall
+    100056: Right_Lower_Cave_Wall
+    100058: Third_Level
+    100060: pCube1
+    400000: Back_Cave_Wall
+    400002: Blob
+    400004: Blob_Anchor
+    400006: Door_Foot_Bridge
+    400008: Door_Group
+    400010: Door_Hallways
+    400012: ENV_Cave_Wall_v1:Left_Door
+    400014: ENV_Cave_Wall_v1:MasterDoorStyle
+    400016: ENV_Cave_Wall_v1:MasterDoorStyle12
+    400018: ENV_Cave_Wall_v1:MasterDoorStyle13
+    400020: ENV_Cave_Wall_v1:MasterDoorStyle14
+    400022: ENV_Cave_Wall_v1:MasterDoorStyle3
+    400024: ENV_Cave_Wall_v1:MasterDoorStyle4
+    400026: ENV_Cave_Wall_v1:MasterDoorStyle5
+    400028: ENV_Cave_Wall_v1:MasterDoorStyle6
+    400030: ENV_Cave_Wall_v1:MasterDoorStyle7
+    400032: ENV_Cave_Wall_v1:MasterDoorStyle8
+    400034: ENV_Cave_Wall_v1:MasterDoorStyle9
+    400036: ENV_Cave_Wall_v1:Right_Door
+    400038: ENV_Cave_Wall_v1:Step
+    400040: ENV_Cave_Wall_v1:Step1
+    400042: ENV_Cave_Wall_v1:Step2
+    400044: ENV_Cave_Wall_v1:Step3
+    400046: //RootNode
+    400048: left
+    400050: Left_Cave_Wall
+    400052: Right_Cave_Wall
+    400054: Left_Lower_Cave_Wall
+    400056: Right_Lower_Cave_Wall
+    400058: Third_Level
+    400060: pCube1
+    2300000: Back_Cave_Wall
+    2300002: Blob
+    2300004: ENV_Cave_Wall_v1:Left_Door
+    2300006: ENV_Cave_Wall_v1:MasterDoorStyle
+    2300008: ENV_Cave_Wall_v1:MasterDoorStyle12
+    2300010: ENV_Cave_Wall_v1:MasterDoorStyle13
+    2300012: ENV_Cave_Wall_v1:MasterDoorStyle14
+    2300014: ENV_Cave_Wall_v1:MasterDoorStyle3
+    2300016: ENV_Cave_Wall_v1:MasterDoorStyle4
+    2300018: ENV_Cave_Wall_v1:MasterDoorStyle5
+    2300020: ENV_Cave_Wall_v1:MasterDoorStyle6
+    2300022: ENV_Cave_Wall_v1:MasterDoorStyle7
+    2300024: ENV_Cave_Wall_v1:MasterDoorStyle8
+    2300026: ENV_Cave_Wall_v1:MasterDoorStyle9
+    2300028: ENV_Cave_Wall_v1:Right_Door
+    2300030: ENV_Cave_Wall_v1:Step
+    2300032: ENV_Cave_Wall_v1:Step1
+    2300034: ENV_Cave_Wall_v1:Step2
+    2300036: ENV_Cave_Wall_v1:Step3
+    2300038: Left_Cave_Wall
+    2300040: Right_Cave_Wall
+    2300042: Left_Lower_Cave_Wall
+    2300044: Right_Lower_Cave_Wall
+    2300046: pCube1
+    3300000: Back_Cave_Wall
+    3300002: Blob
+    3300004: ENV_Cave_Wall_v1:Left_Door
+    3300006: ENV_Cave_Wall_v1:MasterDoorStyle
+    3300008: ENV_Cave_Wall_v1:MasterDoorStyle12
+    3300010: ENV_Cave_Wall_v1:MasterDoorStyle13
+    3300012: ENV_Cave_Wall_v1:MasterDoorStyle14
+    3300014: ENV_Cave_Wall_v1:MasterDoorStyle3
+    3300016: ENV_Cave_Wall_v1:MasterDoorStyle4
+    3300018: ENV_Cave_Wall_v1:MasterDoorStyle5
+    3300020: ENV_Cave_Wall_v1:MasterDoorStyle6
+    3300022: ENV_Cave_Wall_v1:MasterDoorStyle7
+    3300024: ENV_Cave_Wall_v1:MasterDoorStyle8
+    3300026: ENV_Cave_Wall_v1:MasterDoorStyle9
+    3300028: ENV_Cave_Wall_v1:Right_Door
+    3300030: ENV_Cave_Wall_v1:Step
+    3300032: ENV_Cave_Wall_v1:Step1
+    3300034: ENV_Cave_Wall_v1:Step2
+    3300036: ENV_Cave_Wall_v1:Step3
+    3300038: Left_Cave_Wall
+    3300040: Right_Cave_Wall
+    3300042: Left_Lower_Cave_Wall
+    3300044: Right_Lower_Cave_Wall
+    3300046: pCube1
+    4300000: ENV_Cave_Wall_v1:Step
+    4300002: ENV_Cave_Wall_v1:Step1
+    4300004: ENV_Cave_Wall_v1:Step2
+    4300006: ENV_Cave_Wall_v1:Step3
+    4300008: ENV_Cave_Wall_v1:Left_Door
+    4300010: ENV_Cave_Wall_v1:Right_Door
+    4300012: Back_Cave_Wall
+    4300014: Left_Cave_Wall
+    4300016: Right_Cave_Wall
+    4300018: Blob
+    4300020: ENV_Cave_Wall_v1:MasterDoorStyle14
+    4300022: ENV_Cave_Wall_v1:MasterDoorStyle13
+    4300024: ENV_Cave_Wall_v1:MasterDoorStyle12
+    4300026: ENV_Cave_Wall_v1:MasterDoorStyle9
+    4300028: ENV_Cave_Wall_v1:MasterDoorStyle8
+    4300030: ENV_Cave_Wall_v1:MasterDoorStyle5
+    4300032: ENV_Cave_Wall_v1:MasterDoorStyle6
+    4300034: ENV_Cave_Wall_v1:MasterDoorStyle7
+    4300036: ENV_Cave_Wall_v1:MasterDoorStyle4
+    4300038: ENV_Cave_Wall_v1:MasterDoorStyle3
+    4300040: ENV_Cave_Wall_v1:MasterDoorStyle
+    4300042: Left_Lower_Cave_Wall
+    4300044: Right_Lower_Cave_Wall
+    4300046: pCube1
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Blob
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

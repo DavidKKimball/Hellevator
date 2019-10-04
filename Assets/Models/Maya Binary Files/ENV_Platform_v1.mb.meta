@@ -1,0 +1,417 @@
+fileFormatVersion: 2
+guid: 0a3fa972ebcfe6d4eb8caecac376cfce
+timeCreated: 1524235920
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Front_Panel
+    100004: left
+    100006: Left_Bump
+    100008: Left_Side
+    100010: Left_Trim
+    100012: Platform
+    100014: Right_Bump
+    100016: Right_side
+    100018: Right_Trim
+    100020: Spike
+    100022: Spike1
+    100024: Spike2
+    100026: Spike3
+    100028: Spike4
+    100030: Spike5
+    100032: Top_Side
+    100034: Top_Side_and_Bottom
+    400000: //RootNode
+    400002: Front_Panel
+    400004: left
+    400006: Left_Bump
+    400008: Left_Side
+    400010: Left_Trim
+    400012: Platform
+    400014: Right_Bump
+    400016: Right_side
+    400018: Right_Trim
+    400020: Spike
+    400022: Spike1
+    400024: Spike2
+    400026: Spike3
+    400028: Spike4
+    400030: Spike5
+    400032: Top_Side
+    400034: Top_Side_and_Bottom
+    2300000: Front_Panel
+    2300002: Left_Bump
+    2300004: Left_Side
+    2300006: Left_Trim
+    2300008: Right_Bump
+    2300010: Right_side
+    2300012: Right_Trim
+    2300014: Spike
+    2300016: Spike1
+    2300018: Spike2
+    2300020: Spike3
+    2300022: Spike4
+    2300024: Spike5
+    2300026: Top_Side
+    3300000: Front_Panel
+    3300002: Left_Bump
+    3300004: Left_Side
+    3300006: Left_Trim
+    3300008: Right_Bump
+    3300010: Right_side
+    3300012: Right_Trim
+    3300014: Spike
+    3300016: Spike1
+    3300018: Spike2
+    3300020: Spike3
+    3300022: Spike4
+    3300024: Spike5
+    3300026: Top_Side
+    4300000: Right_Bump
+    4300002: Left_Bump
+    4300004: Front_Panel
+    4300006: Right_Trim
+    4300008: Top_Side
+    4300010: Right_side
+    4300012: Left_Side
+    4300014: Left_Trim
+    4300016: Spike
+    4300018: Spike1
+    4300020: Spike2
+    4300022: Spike3
+    4300024: Spike4
+    4300026: Spike5
+    7400000: PlatformIdleIn
+    7400002: PlatformMoveOut
+    7400004: PlatformIdleOut
+    7400006: PlatformMoveIn
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: PlatformIdleIn
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 2
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: left
+        weight: 1
+      - path: Platform
+        weight: 1
+      - path: Platform/Front_Panel
+        weight: 1
+      - path: Platform/Left_Bump
+        weight: 1
+      - path: Platform/Left_Trim
+        weight: 1
+      - path: Platform/Right_Bump
+        weight: 1
+      - path: Platform/Right_Trim
+        weight: 1
+      - path: Platform/Spike
+        weight: 1
+      - path: Platform/Spike1
+        weight: 1
+      - path: Platform/Spike2
+        weight: 1
+      - path: Platform/Spike3
+        weight: 1
+      - path: Platform/Spike4
+        weight: 1
+      - path: Platform/Spike5
+        weight: 1
+      - path: Platform/Top_Side_and_Bottom
+        weight: 1
+      - path: Platform/Top_Side_and_Bottom/Left_Side
+        weight: 1
+      - path: Platform/Top_Side_and_Bottom/Right_side
+        weight: 1
+      - path: Platform/Top_Side_and_Bottom/Top_Side
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: PlatformMoveOut
+      takeName: Take 001
+      firstFrame: 3
+      lastFrame: 27
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: left
+        weight: 1
+      - path: Platform
+        weight: 1
+      - path: Platform/Front_Panel
+        weight: 1
+      - path: Platform/Left_Bump
+        weight: 1
+      - path: Platform/Left_Trim
+        weight: 1
+      - path: Platform/Right_Bump
+        weight: 1
+      - path: Platform/Right_Trim
+        weight: 1
+      - path: Platform/Spike
+        weight: 1
+      - path: Platform/Spike1
+        weight: 1
+      - path: Platform/Spike2
+        weight: 1
+      - path: Platform/Spike3
+        weight: 1
+      - path: Platform/Spike4
+        weight: 1
+      - path: Platform/Spike5
+        weight: 1
+      - path: Platform/Top_Side_and_Bottom
+        weight: 1
+      - path: Platform/Top_Side_and_Bottom/Left_Side
+        weight: 1
+      - path: Platform/Top_Side_and_Bottom/Right_side
+        weight: 1
+      - path: Platform/Top_Side_and_Bottom/Top_Side
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: PlatformIdleOut
+      takeName: Take 001
+      firstFrame: 28
+      lastFrame: 29
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: left
+        weight: 1
+      - path: Platform
+        weight: 1
+      - path: Platform/Front_Panel
+        weight: 1
+      - path: Platform/Left_Bump
+        weight: 1
+      - path: Platform/Left_Trim
+        weight: 1
+      - path: Platform/Right_Bump
+        weight: 1
+      - path: Platform/Right_Trim
+        weight: 1
+      - path: Platform/Spike
+        weight: 1
+      - path: Platform/Spike1
+        weight: 1
+      - path: Platform/Spike2
+        weight: 1
+      - path: Platform/Spike3
+        weight: 1
+      - path: Platform/Spike4
+        weight: 1
+      - path: Platform/Spike5
+        weight: 1
+      - path: Platform/Top_Side_and_Bottom
+        weight: 1
+      - path: Platform/Top_Side_and_Bottom/Left_Side
+        weight: 1
+      - path: Platform/Top_Side_and_Bottom/Right_side
+        weight: 1
+      - path: Platform/Top_Side_and_Bottom/Top_Side
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: PlatformMoveIn
+      takeName: Take 001
+      firstFrame: 29
+      lastFrame: 54
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: left
+        weight: 1
+      - path: Platform
+        weight: 1
+      - path: Platform/Front_Panel
+        weight: 1
+      - path: Platform/Left_Bump
+        weight: 1
+      - path: Platform/Left_Trim
+        weight: 1
+      - path: Platform/Right_Bump
+        weight: 1
+      - path: Platform/Right_Trim
+        weight: 1
+      - path: Platform/Spike
+        weight: 1
+      - path: Platform/Spike1
+        weight: 1
+      - path: Platform/Spike2
+        weight: 1
+      - path: Platform/Spike3
+        weight: 1
+      - path: Platform/Spike4
+        weight: 1
+      - path: Platform/Spike5
+        weight: 1
+      - path: Platform/Top_Side_and_Bottom
+        weight: 1
+      - path: Platform/Top_Side_and_Bottom/Left_Side
+        weight: 1
+      - path: Platform/Top_Side_and_Bottom/Right_side
+        weight: 1
+      - path: Platform/Top_Side_and_Bottom/Top_Side
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

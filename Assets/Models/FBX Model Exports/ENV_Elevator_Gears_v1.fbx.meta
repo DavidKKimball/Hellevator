@@ -1,0 +1,314 @@
+fileFormatVersion: 2
+guid: afad69a518f13f14083b4f722dba8fdc
+timeCreated: 1521754459
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Gear
+    100004: Gear2
+    100006: pasted__pPipe7
+    100008: pasted__pPipe8
+    100010: pCube1
+    100012: pCylinder10
+    100014: pCylinder11
+    100016: pCylinder2
+    100018: pCylinder3
+    100020: pCylinder4
+    100022: pCylinder5
+    100024: pCylinder6
+    100026: pCylinder7
+    100028: pCylinder9
+    100030: Platform
+    100032: pPipe2
+    100034: testgears:Gears
+    100036: testgears:pPipe2
+    100038: Cave_Wall_Left
+    100040: Cave_Wall_Right
+    100042: Door_Style1_Frame
+    100044: Door_Style1_Frame 1
+    100046: Door_Style1_Frame1
+    100048: Door_Style1_Frame2
+    100050: Door_Style1_Frame2 1
+    100052: Door_Style1_Frame3
+    100054: Door_Style1_Panel
+    100056: Door_Style1_Panel1
+    100058: Door_Style1_Panel1 1
+    100060: Door_Style1_Panel2
+    100062: Door_Style1_Panel2 1
+    100064: Door_Style1_Panel3
+    100066: Door_Style1_Panel4
+    100068: Door_Style1_Panel4 1
+    100070: Door_Style1_Panel5
+    100072: Door_Style1_Panel5 1
+    100074: Door_Style1_Panel6
+    100076: Door_Style1_Panel7
+    100078: Floor_Left
+    100080: Floor_Right
+    100082: Gears
+    100084: left
+    100086: Left_Doors
+    100088: polySurface39
+    100090: polySurface40
+    100092: Right_Doors
+    100094: testgears:group1
+    100096: Trap_Door_East1
+    100098: Trap_Door_North
+    100100: Trap_Door_South
+    100102: Trap_Door_West
+    400000: //RootNode
+    400002: Gear
+    400004: Gear2
+    400006: pasted__pPipe7
+    400008: pasted__pPipe8
+    400010: pCube1
+    400012: pCylinder10
+    400014: pCylinder11
+    400016: pCylinder2
+    400018: pCylinder3
+    400020: pCylinder4
+    400022: pCylinder5
+    400024: pCylinder6
+    400026: pCylinder7
+    400028: pCylinder9
+    400030: Platform
+    400032: pPipe2
+    400034: testgears:Gears
+    400036: testgears:pPipe2
+    400038: Cave_Wall_Left
+    400040: Cave_Wall_Right
+    400042: Door_Style1_Frame
+    400044: Door_Style1_Frame 1
+    400046: Door_Style1_Frame1
+    400048: Door_Style1_Frame2
+    400050: Door_Style1_Frame2 1
+    400052: Door_Style1_Frame3
+    400054: Door_Style1_Panel
+    400056: Door_Style1_Panel1
+    400058: Door_Style1_Panel1 1
+    400060: Door_Style1_Panel2
+    400062: Door_Style1_Panel2 1
+    400064: Door_Style1_Panel3
+    400066: Door_Style1_Panel4
+    400068: Door_Style1_Panel4 1
+    400070: Door_Style1_Panel5
+    400072: Door_Style1_Panel5 1
+    400074: Door_Style1_Panel6
+    400076: Door_Style1_Panel7
+    400078: Floor_Left
+    400080: Floor_Right
+    400082: Gears
+    400084: left
+    400086: Left_Doors
+    400088: polySurface39
+    400090: polySurface40
+    400092: Right_Doors
+    400094: testgears:group1
+    400096: Trap_Door_East1
+    400098: Trap_Door_North
+    400100: Trap_Door_South
+    400102: Trap_Door_West
+    2300000: Gear
+    2300002: Gear2
+    2300004: pasted__pPipe7
+    2300006: pasted__pPipe8
+    2300008: pCube1
+    2300010: pCylinder10
+    2300012: pCylinder11
+    2300014: pCylinder2
+    2300016: pCylinder3
+    2300018: pCylinder4
+    2300020: pCylinder5
+    2300022: pCylinder6
+    2300024: pCylinder7
+    2300026: pCylinder9
+    2300028: pPipe2
+    2300030: testgears:pPipe2
+    2300032: Cave_Wall_Left
+    2300034: Cave_Wall_Right
+    2300036: Door_Style1_Frame
+    2300038: Door_Style1_Frame 1
+    2300040: Door_Style1_Frame1
+    2300042: Door_Style1_Frame2
+    2300044: Door_Style1_Frame2 1
+    2300046: Door_Style1_Frame3
+    2300048: Door_Style1_Panel
+    2300050: Door_Style1_Panel1
+    2300052: Door_Style1_Panel1 1
+    2300054: Door_Style1_Panel2
+    2300056: Door_Style1_Panel2 1
+    2300058: Door_Style1_Panel3
+    2300060: Door_Style1_Panel4
+    2300062: Door_Style1_Panel4 1
+    2300064: Door_Style1_Panel5
+    2300066: Door_Style1_Panel5 1
+    2300068: Door_Style1_Panel6
+    2300070: Door_Style1_Panel7
+    2300072: Floor_Left
+    2300074: Floor_Right
+    2300076: polySurface39
+    2300078: polySurface40
+    2300080: Trap_Door_East1
+    2300082: Trap_Door_North
+    2300084: Trap_Door_South
+    2300086: Trap_Door_West
+    3300000: Gear
+    3300002: Gear2
+    3300004: pasted__pPipe7
+    3300006: pasted__pPipe8
+    3300008: pCube1
+    3300010: pCylinder10
+    3300012: pCylinder11
+    3300014: pCylinder2
+    3300016: pCylinder3
+    3300018: pCylinder4
+    3300020: pCylinder5
+    3300022: pCylinder6
+    3300024: pCylinder7
+    3300026: pCylinder9
+    3300028: pPipe2
+    3300030: testgears:pPipe2
+    3300032: Cave_Wall_Left
+    3300034: Cave_Wall_Right
+    3300036: Door_Style1_Frame
+    3300038: Door_Style1_Frame 1
+    3300040: Door_Style1_Frame1
+    3300042: Door_Style1_Frame2
+    3300044: Door_Style1_Frame2 1
+    3300046: Door_Style1_Frame3
+    3300048: Door_Style1_Panel
+    3300050: Door_Style1_Panel1
+    3300052: Door_Style1_Panel1 1
+    3300054: Door_Style1_Panel2
+    3300056: Door_Style1_Panel2 1
+    3300058: Door_Style1_Panel3
+    3300060: Door_Style1_Panel4
+    3300062: Door_Style1_Panel4 1
+    3300064: Door_Style1_Panel5
+    3300066: Door_Style1_Panel5 1
+    3300068: Door_Style1_Panel6
+    3300070: Door_Style1_Panel7
+    3300072: Floor_Left
+    3300074: Floor_Right
+    3300076: polySurface39
+    3300078: polySurface40
+    3300080: Trap_Door_East1
+    3300082: Trap_Door_North
+    3300084: Trap_Door_South
+    3300086: Trap_Door_West
+    4300000: Gear
+    4300002: Gear2
+    4300004: pCylinder2
+    4300006: pCylinder3
+    4300008: pCylinder4
+    4300010: pCylinder5
+    4300012: pCylinder6
+    4300014: pCylinder7
+    4300016: pCylinder9
+    4300018: pCylinder10
+    4300020: testgears:pPipe2
+    4300022: pasted__pPipe7
+    4300024: pPipe2
+    4300026: pasted__pPipe8
+    4300028: pCube1
+    4300030: pCylinder11
+    4300032: Floor_Left
+    4300034: Floor_Right
+    4300036: Trap_Door_West
+    4300038: Trap_Door_East1
+    4300040: Trap_Door_South
+    4300042: Trap_Door_North
+    4300044: polySurface39
+    4300046: polySurface40
+    4300048: Door_Style1_Panel6
+    4300050: Door_Style1_Panel7
+    4300052: Door_Style1_Frame3
+    4300054: Door_Style1_Frame
+    4300056: Door_Style1_Panel2
+    4300058: Door_Style1_Panel1
+    4300060: Door_Style1_Panel4
+    4300062: Door_Style1_Panel5
+    4300064: Door_Style1_Frame2
+    4300066: Door_Style1_Panel
+    4300068: Door_Style1_Panel1
+    4300070: Door_Style1_Frame
+    4300072: Door_Style1_Frame1
+    4300074: Door_Style1_Panel2
+    4300076: Door_Style1_Panel3
+    4300078: Door_Style1_Panel4
+    4300080: Door_Style1_Panel5
+    4300082: Door_Style1_Frame2
+    4300084: Cave_Wall_Left
+    4300086: Cave_Wall_Right
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

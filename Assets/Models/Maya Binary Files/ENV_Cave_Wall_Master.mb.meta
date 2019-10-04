@@ -1,0 +1,222 @@
+fileFormatVersion: 2
+guid: 261953c0f426692428c434de8f67ed17
+timeCreated: 1522605937
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: ENV_Cave_Wall_v1:Back_Cave_Wall
+    100004: ENV_Cave_Wall_v1:Door_Foot_Bridge
+    100006: ENV_Cave_Wall_v1:Door_Group
+    100008: ENV_Cave_Wall_v1:Door_Hallways
+    100010: ENV_Cave_Wall_v1:Left_Cave_Wall
+    100012: ENV_Cave_Wall_v1:Left_Door
+    100014: ENV_Cave_Wall_v1:MasterDoorStyle
+    100016: ENV_Cave_Wall_v1:MasterDoorStyle10
+    100018: ENV_Cave_Wall_v1:MasterDoorStyle12
+    100020: ENV_Cave_Wall_v1:MasterDoorStyle13
+    100022: ENV_Cave_Wall_v1:MasterDoorStyle14
+    100024: ENV_Cave_Wall_v1:MasterDoorStyle3
+    100026: ENV_Cave_Wall_v1:MasterDoorStyle4
+    100028: ENV_Cave_Wall_v1:MasterDoorStyle5
+    100030: ENV_Cave_Wall_v1:MasterDoorStyle6
+    100032: ENV_Cave_Wall_v1:MasterDoorStyle7
+    100034: ENV_Cave_Wall_v1:MasterDoorStyle8
+    100036: ENV_Cave_Wall_v1:MasterDoorStyle9
+    100038: ENV_Cave_Wall_v1:Right_Cave_Wall
+    100040: ENV_Cave_Wall_v1:Right_Door
+    100042: ENV_Cave_Wall_v1:Step
+    100044: ENV_Cave_Wall_v1:Step1
+    100046: ENV_Cave_Wall_v1:Step2
+    100048: ENV_Cave_Wall_v1:Step3
+    100050: left
+    100052: ENV_Cave_Wall_v1:ENV_Platform_Long
+    100054: ENV_Cave_Wall_v1:ENV_Platform_Trim
+    100056: ENV_Cave_Wall_v1:Platform_Long
+    100058: ENV_Cave_Wall_v2:ENV_Platform_Short
+    100060: ENV_Cave_Wall_v2:ENV_Platform_Trim
+    100062: ENV_Cave_Wall_v2:Platform_Short
+    100064: ENV_Cave_Wall_v2:Platform_Long
+    100066: group
+    400000: //RootNode
+    400002: ENV_Cave_Wall_v1:Back_Cave_Wall
+    400004: ENV_Cave_Wall_v1:Door_Foot_Bridge
+    400006: ENV_Cave_Wall_v1:Door_Group
+    400008: ENV_Cave_Wall_v1:Door_Hallways
+    400010: ENV_Cave_Wall_v1:Left_Cave_Wall
+    400012: ENV_Cave_Wall_v1:Left_Door
+    400014: ENV_Cave_Wall_v1:MasterDoorStyle
+    400016: ENV_Cave_Wall_v1:MasterDoorStyle10
+    400018: ENV_Cave_Wall_v1:MasterDoorStyle12
+    400020: ENV_Cave_Wall_v1:MasterDoorStyle13
+    400022: ENV_Cave_Wall_v1:MasterDoorStyle14
+    400024: ENV_Cave_Wall_v1:MasterDoorStyle3
+    400026: ENV_Cave_Wall_v1:MasterDoorStyle4
+    400028: ENV_Cave_Wall_v1:MasterDoorStyle5
+    400030: ENV_Cave_Wall_v1:MasterDoorStyle6
+    400032: ENV_Cave_Wall_v1:MasterDoorStyle7
+    400034: ENV_Cave_Wall_v1:MasterDoorStyle8
+    400036: ENV_Cave_Wall_v1:MasterDoorStyle9
+    400038: ENV_Cave_Wall_v1:Right_Cave_Wall
+    400040: ENV_Cave_Wall_v1:Right_Door
+    400042: ENV_Cave_Wall_v1:Step
+    400044: ENV_Cave_Wall_v1:Step1
+    400046: ENV_Cave_Wall_v1:Step2
+    400048: ENV_Cave_Wall_v1:Step3
+    400050: left
+    400052: ENV_Cave_Wall_v1:ENV_Platform_Long
+    400054: ENV_Cave_Wall_v1:ENV_Platform_Trim
+    400056: ENV_Cave_Wall_v1:Platform_Long
+    400058: ENV_Cave_Wall_v2:ENV_Platform_Short
+    400060: ENV_Cave_Wall_v2:ENV_Platform_Trim
+    400062: ENV_Cave_Wall_v2:Platform_Short
+    400064: ENV_Cave_Wall_v2:Platform_Long
+    400066: group
+    2300000: ENV_Cave_Wall_v1:Back_Cave_Wall
+    2300002: ENV_Cave_Wall_v1:Left_Cave_Wall
+    2300004: ENV_Cave_Wall_v1:Left_Door
+    2300006: ENV_Cave_Wall_v1:MasterDoorStyle
+    2300008: ENV_Cave_Wall_v1:MasterDoorStyle10
+    2300010: ENV_Cave_Wall_v1:MasterDoorStyle12
+    2300012: ENV_Cave_Wall_v1:MasterDoorStyle13
+    2300014: ENV_Cave_Wall_v1:MasterDoorStyle14
+    2300016: ENV_Cave_Wall_v1:MasterDoorStyle3
+    2300018: ENV_Cave_Wall_v1:MasterDoorStyle4
+    2300020: ENV_Cave_Wall_v1:MasterDoorStyle5
+    2300022: ENV_Cave_Wall_v1:MasterDoorStyle6
+    2300024: ENV_Cave_Wall_v1:MasterDoorStyle7
+    2300026: ENV_Cave_Wall_v1:MasterDoorStyle8
+    2300028: ENV_Cave_Wall_v1:MasterDoorStyle9
+    2300030: ENV_Cave_Wall_v1:Right_Cave_Wall
+    2300032: ENV_Cave_Wall_v1:Right_Door
+    2300034: ENV_Cave_Wall_v1:Step
+    2300036: ENV_Cave_Wall_v1:Step1
+    2300038: ENV_Cave_Wall_v1:Step2
+    2300040: ENV_Cave_Wall_v1:Step3
+    2300042: ENV_Cave_Wall_v1:ENV_Platform_Long
+    2300044: ENV_Cave_Wall_v1:ENV_Platform_Trim
+    2300046: ENV_Cave_Wall_v2:ENV_Platform_Short
+    2300048: ENV_Cave_Wall_v2:ENV_Platform_Trim
+    3300000: ENV_Cave_Wall_v1:Back_Cave_Wall
+    3300002: ENV_Cave_Wall_v1:Left_Cave_Wall
+    3300004: ENV_Cave_Wall_v1:Left_Door
+    3300006: ENV_Cave_Wall_v1:MasterDoorStyle
+    3300008: ENV_Cave_Wall_v1:MasterDoorStyle10
+    3300010: ENV_Cave_Wall_v1:MasterDoorStyle12
+    3300012: ENV_Cave_Wall_v1:MasterDoorStyle13
+    3300014: ENV_Cave_Wall_v1:MasterDoorStyle14
+    3300016: ENV_Cave_Wall_v1:MasterDoorStyle3
+    3300018: ENV_Cave_Wall_v1:MasterDoorStyle4
+    3300020: ENV_Cave_Wall_v1:MasterDoorStyle5
+    3300022: ENV_Cave_Wall_v1:MasterDoorStyle6
+    3300024: ENV_Cave_Wall_v1:MasterDoorStyle7
+    3300026: ENV_Cave_Wall_v1:MasterDoorStyle8
+    3300028: ENV_Cave_Wall_v1:MasterDoorStyle9
+    3300030: ENV_Cave_Wall_v1:Right_Cave_Wall
+    3300032: ENV_Cave_Wall_v1:Right_Door
+    3300034: ENV_Cave_Wall_v1:Step
+    3300036: ENV_Cave_Wall_v1:Step1
+    3300038: ENV_Cave_Wall_v1:Step2
+    3300040: ENV_Cave_Wall_v1:Step3
+    3300042: ENV_Cave_Wall_v1:ENV_Platform_Long
+    3300044: ENV_Cave_Wall_v1:ENV_Platform_Trim
+    3300046: ENV_Cave_Wall_v2:ENV_Platform_Short
+    3300048: ENV_Cave_Wall_v2:ENV_Platform_Trim
+    4300000: ENV_Cave_Wall_v1:Right_Cave_Wall
+    4300002: ENV_Cave_Wall_v1:Back_Cave_Wall
+    4300004: ENV_Cave_Wall_v1:Left_Cave_Wall
+    4300006: ENV_Cave_Wall_v1:MasterDoorStyle
+    4300008: ENV_Cave_Wall_v1:MasterDoorStyle3
+    4300010: ENV_Cave_Wall_v1:MasterDoorStyle4
+    4300012: ENV_Cave_Wall_v1:MasterDoorStyle7
+    4300014: ENV_Cave_Wall_v1:MasterDoorStyle6
+    4300016: ENV_Cave_Wall_v1:MasterDoorStyle5
+    4300018: ENV_Cave_Wall_v1:MasterDoorStyle8
+    4300020: ENV_Cave_Wall_v1:MasterDoorStyle9
+    4300022: ENV_Cave_Wall_v1:MasterDoorStyle10
+    4300024: ENV_Cave_Wall_v1:MasterDoorStyle12
+    4300026: ENV_Cave_Wall_v1:MasterDoorStyle13
+    4300028: ENV_Cave_Wall_v1:MasterDoorStyle14
+    4300030: ENV_Cave_Wall_v1:Left_Door
+    4300032: ENV_Cave_Wall_v1:Right_Door
+    4300034: ENV_Cave_Wall_v1:Step
+    4300036: ENV_Cave_Wall_v1:Step1
+    4300038: ENV_Cave_Wall_v1:Step2
+    4300040: ENV_Cave_Wall_v1:Step3
+    4300042: ENV_Cave_Wall_v1:ENV_Platform_Long
+    4300044: ENV_Cave_Wall_v1:ENV_Platform_Trim
+    4300046: ENV_Cave_Wall_v2:ENV_Platform_Short
+    4300048: ENV_Cave_Wall_v2:ENV_Platform_Trim
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

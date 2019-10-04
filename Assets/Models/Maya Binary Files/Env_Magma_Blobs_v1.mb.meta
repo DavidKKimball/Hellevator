@@ -1,0 +1,116 @@
+fileFormatVersion: 2
+guid: 6d028b9c789cb5047b167e3a4f5ee4b4
+timeCreated: 1524591541
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Magma_Big
+    100004: Magma_Curved
+    100006: Magma_Medium
+    100008: Magma_Oblong
+    100010: Magma_Small
+    100012: Magma_Wobble
+    100014: Magmun_Blob
+    400000: //RootNode
+    400002: Magma_Big
+    400004: Magma_Curved
+    400006: Magma_Medium
+    400008: Magma_Oblong
+    400010: Magma_Small
+    400012: Magma_Wobble
+    400014: Magmun_Blob
+    2300000: Magma_Big
+    2300002: Magma_Curved
+    2300004: Magma_Medium
+    2300006: Magma_Oblong
+    2300008: Magma_Small
+    2300010: Magma_Wobble
+    2300012: Magmun_Blob
+    3300000: Magma_Big
+    3300002: Magma_Curved
+    3300004: Magma_Medium
+    3300006: Magma_Oblong
+    3300008: Magma_Small
+    3300010: Magma_Wobble
+    3300012: Magmun_Blob
+    4300000: Magma_Big
+    4300002: Magma_Curved
+    4300004: Magma_Wobble
+    4300006: Magma_Oblong
+    4300008: Magma_Small
+    4300010: Magma_Medium
+    4300012: Magmun_Blob
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
